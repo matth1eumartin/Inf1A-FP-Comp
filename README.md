@@ -2,6 +2,7 @@
 Submission for Inf1A Competition
 
 Matthieu Martin s2226380
+
 This haskell file creates an animation of lines being mapped between points on parametric curves.
 
 Gloss
@@ -11,9 +12,7 @@ Gloss
 	> stack update
 	> stack install gloss
 
-Note - while personally installing Gloss on Windows 10, I found an issue relating to freeglut. This can be solved by
-following the steps in the first answer to this question on stackoverflow (https://stackoverflow.com/questions/8956387/cant-get-freeglut-to-work-with-haskell-on-windows)
-
+N.B - while personally installing Gloss on Windows 10, I found an issue relating to freeglut. This can be solved by following the steps detailed in the first answer to this question on stackoverflow (https://stackoverflow.com/questions/8956387/cant-get-freeglut-to-work-with-haskell-on-windows)
 
 Running the program
 - this program can be run by opening the command line and typing
